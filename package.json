@@ -1,0 +1,38 @@
+{
+  "name": "monokai-dark-modern",
+  "displayName": "Monokai Dark Modern",
+  "description": "A hybrid theme combining Monokai's vibrant syntax highlighting with Dark Modern's clean UI",
+  "version": "0.0.1",
+  "publisher": "kwickramasekara",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "monokai",
+    "dark modern",
+    "dark",
+    "theme",
+    "color theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Dark Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-dark-modern-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwickramasekara/vsc-theme-monokai-dark-modern"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1F1F1F",
+    "theme": "dark"
+  }
+}
