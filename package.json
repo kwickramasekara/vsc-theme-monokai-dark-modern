@@ -2,7 +2,7 @@
   "name": "monokai-dark-modern",
   "displayName": "Monokai Dark Modern",
   "description": "A hybrid theme combining Monokai's vibrant syntax highlighting with Dark Modern's clean UI",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "kwickramasekara",
   "engines": {
     "vscode": "^1.60.0"
